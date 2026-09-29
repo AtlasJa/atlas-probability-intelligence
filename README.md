@@ -1,7 +1,9 @@
 # Atlas Probability Intelligence
 
 Machine-readable **Bitcoin (BTC) 60-minute probability intelligence** for autonomous agents, developers, and x402 workflows.
+
 👉 [Quickstart: test and integrate the live Atlas x402 endpoint](QUICKSTART.md)
+
 ## Live Product
 
 **Price:** $0.01 per request  
